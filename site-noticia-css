@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Portal das Noticias </title>
+    <link rel="stylesheet" href="./main.css">
+</head>
+<body>
+    <header>
+        <div>
+            <h1>
+                Noticias de Tecnologia e Entreterimento  
+            </h1>
+                    
+    </header>
+        </div>
+    <section id="tecnologia">
+        <h2>Tecnologia</h2><br />
+        <article>
+        <table>
+            <tr>
+                <td><img src="./tecnologia/celular.jpg" alt="celular" class="espaco-foto-texto" /> 
+        </td><br />
+        <td><h3 class="testo-informacao">Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+        <br />Iste corporis aliquam, deserunt doloribus repellendus, 
+        <br />perferendis atque nesciunt molestiae error, id mollitia 
+        <br />dicta voluptate. Fugit, exercitationem vero 
+        <br />ipsam doloribus atque aliquam.</h3></td>        
+        </article>
+
+        <article>            
+            <td><img src="./tecnologia/placamae.jpg" alt="placa mãe" class="espaco-foto-texto" /> 
+            </td><br />
+            <td><h3 class="testo-informacao">Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+            <br />Iste corporis aliquam, deserunt doloribus repellendus, 
+            <br />perferendis atque nesciunt molestiae error, id mollitia 
+            <br />dicta voluptate. Fugit, exercitationem vero 
+            <br />ipsam doloribus atque aliquam.</h3></td>
+            </tr>
+        </table>            
+            </article>
+
+            <table>
+                <tr>
+            <article>
+                <td><img src="./tecnologia/watch.jpg" alt="relogio" class="espaco-foto-texto" /> 
+                </td><br />
+                <td><h3 class="testo-informacao">Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                <br />Iste corporis aliquam, deserunt doloribus repellendus, 
+                <br />perferendis atque nesciunt molestiae error, id mollitia 
+                <br />dicta voluptate. Fugit, exercitationem vero 
+                <br />ipsam doloribus atque aliquam.</h3></td>            
+                </article>
+
+                <article>
+                    <td><img src="./tecnologia/robo.jpg" alt="robo" class="espaco-foto-texto" /> 
+                    </td><br />
+                    <td><h3 class="testo-informacao">Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                    <br />Iste corporis aliquam, deserunt doloribus repellendus, 
+                    <br />perferendis atque nesciunt molestiae error, id mollitia 
+                    <br />dicta voluptate. Fugit, exercitationem vero 
+                    <br />ipsam doloribus atque aliquam.</h3></td>
+                    </tr>
+                    </table>
+                    </article>
+    </section>
+    <hr /><hr /><hr />
+
+    <section id="entreterimento">
+        <h2>Entreterimento</h2><br />
+        <article> 
+        <table>
+            <tr>
+                <td><img src="./entreterimento/diversao.jpg" alt="balada" class="espaco-foto-texto" /> 
+        </td><br />
+        <td><h3 class="testo-entreterimento">Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+        <br />Iste corporis aliquam, deserunt doloribus repellendus, 
+        <br />perferendis atque nesciunt molestiae error, id mollitia 
+        <br />dicta voluptate. Fugit, exercitationem vero 
+        <br />ipsam doloribus atque aliquam.</h3></td>        
+        </article>
+
+        <article>            
+            <td><img src="./entreterimento/filmes.jpg" alt="filmes" class="espaco-foto-texto" /> 
+            </td><br />
+            <td><h3 class="testo-entreterimento">Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+            <br />Iste corporis aliquam, deserunt doloribus repellendus, 
+            <br />perferendis atque nesciunt molestiae error, id mollitia 
+            <br />dicta voluptate. Fugit, exercitationem vero 
+            <br />ipsam doloribus atque aliquam.</h3></td>
+            </tr>
+        </table>            
+            </article>
+
+            <table>
+                <tr>
+            <article>
+                <td><img src="./entreterimento/shows.jpg" alt="show" class="espaco-foto-texto" /> 
+                </td><br />
+                <td><h3 class="testo-entreterimento">Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                <br />Iste corporis aliquam, deserunt doloribus repellendus, 
+                <br />perferendis atque nesciunt molestiae error, id mollitia 
+                <br />dicta voluptate. Fugit, exercitationem vero 
+                <br />ipsam doloribus atque aliquam.</h3></td>            
+                </article>
+
+                <article>
+                    <td><img src="./entreterimento/reality.jpg" alt="reallity" class="espaco-foto-texto" /> 
+                    </td><br />
+                    <td><h3 class="testo-entreterimento">Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                    <br />Iste corporis aliquam, deserunt doloribus repellendus, 
+                    <br />perferendis atque nesciunt molestiae error, id mollitia 
+                    <br />dicta voluptate. Fugit, exercitationem vero 
+                    <br />ipsam doloribus atque aliquam.</h3></td>
+                    </tr>
+                    </table>
+                    </article>
+    </section>
+    <hr />
+
+
+
+
+</body>
+</html>
