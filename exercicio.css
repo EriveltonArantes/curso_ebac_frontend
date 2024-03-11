@@ -1,0 +1,51 @@
+body {
+    background-color: #ccc;
+}
+
+h1 {
+    border: 1px solid black;
+    border-radius: 20px;
+    text-align: center;
+    color: antiquewhite;
+    background: black;
+    margin-top: 0;
+}
+
+h2 {
+    color: chocolate;
+    text-align: center;
+    border-left: 5px orange;
+    margin-top: 20px;
+    text-size-adjust: 100%;
+    border: 5px solid bisque;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 50px;
+}
+
+
+.testo-informacao {
+    text-align: justify;
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    
+}
+
+#tecnologia {
+    background: black;
+}
+
+#entreterimento {
+    background: blue;
+    
+}
+
+.testo-entreterimento {
+    color: black;
+}
+
+
+
+
+
