@@ -1,0 +1,132 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgba(255, 0, 0, 0.178);
+}
+
+.container {
+    position: absolute;
+    background-color: rgba(41, 32, 32, 0.644);
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    border-radius: 20px;
+    padding: 43px;
+}
+
+.form-campo {
+    width: 50px;
+    height: 50px;
+    font-size: 25px;
+    border: none;
+    color: #fff;
+    margin: 2px;
+}
+
+input, button {
+    padding: 9px;
+    width: 349px;
+}
+
+.enviar {
+    cursor: pointer;
+    border-radius: 80px;
+}
+
+
+
+
+
+
+
+
+/*
+* {
+    padding: 0;
+    margin: 0;
+  }
+  
+  header {
+    display: flex;
+    padding: 16px 0;
+    justify-content: center;
+    text-transform: uppercase;
+    font-style: italic;
+  }
+  
+  form {
+    background-color: #c8d6e5;
+    padding: 24px 0;
+    text-align: center;
+  }
+  
+  header button {
+    margin-left: 16px;
+  }
+  
+  #botao-remover {
+    cursor: pointer;
+  }
+  
+  h1 {
+    padding: 10px;
+    border: 2px solid blue;
+    background-color: rgb(100, 225, 65);
+  }
+  
+  /* displey: flex, para deixar um em baixo do outro */
+  /* justfy-content: center , para alinhar o conteudo ao centro */
+  
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+  }
+  
+  /* para centralizar o input ao centro */
+  .container {
+    text-align: center;
+  }
+  
+  /* para centralizar o inpu ao centro */
+  input {
+    margin: 0 auto;
+  }
+  
+  /* margin-bottom: para dar espacamento entre os conteudos. */
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  /* label: display: block para ficar uma alinhado em baixo do outro */
+  label,
+  input,
+  button {
+    display: block;
+    font-size: 25px;
+    font-weight: bold;
+  }
+  
+  .form-group button {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: inline-block;
+    font-family: "Courier New", Courier, monospace;
+    background-color: #116d97;
+    color: #fff;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  #botao-cancelar {
+    background-color: red;
+  }
